@@ -1,2 +1,2 @@
 # primeDemo
-This is demo
+This is demo.
